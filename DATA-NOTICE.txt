@@ -1,0 +1,17 @@
+Jgent data notice
+=================
+
+This distribution includes object-data.db, a compact lookup index for
+Warcraft III object identifiers, display names, categories, and race labels.
+It is provided only to support object lookup in Jgent.
+
+The distribution does not include Warcraft III game archives or MPQ files,
+executables, maps, art, audio, or other original game files.
+
+Warcraft and Warcraft III are trademarks or registered trademarks of Blizzard
+Entertainment, Inc. Jgent is an independent tool and is not affiliated with,
+endorsed by, or sponsored by Blizzard Entertainment, Inc.
+
+No right to Warcraft III content is granted by this notice. Users are
+responsible for complying with the terms that apply to their own Warcraft III
+installation and use of related content.

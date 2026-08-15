@@ -1,0 +1,60 @@
+Jgent third-party notices
+==========================
+
+This file identifies third-party components included in, or used to build,
+the Jgent distribution. Their respective license terms remain in effect.
+Jgent itself is proprietary software; see LICENSE.
+
+Bundled Warcraft development tools
+----------------------------------
+
+StormLib
+  Copyright (c) 1999-2013 Ladislav Zezula
+  License: MIT
+  Source: https://github.com/ladislav-zezula/StormLib
+  Full license text: plugins/stormlib/LICENSE
+
+pjass (release-2026-06-15)
+  Original author: Rudi Cilibrasi
+  Maintainer and release publisher: lep
+  License: BSD-2-Clause
+  Source: https://github.com/lep/pjass
+  Full license text: plugins/pjass/LICENSE
+  Provenance: plugins/pjass/SOURCE.md
+
+JassHelper (0.A.9.1)
+  Original author: Victor Hugo Soliz Kuncar (Vexorian)
+  Bundled release publisher: shuen4
+  License: zlib/PNG
+  Source: https://github.com/shuen4/jasshelper
+  Full license text: plugins/jasshelper/LICENSE
+  Provenance: plugins/jasshelper/SOURCE.md
+
+Managed runtime and libraries
+-----------------------------
+
+Jgent is distributed as a self-contained .NET application. Microsoft .NET
+runtime components are subject to their applicable Microsoft and open-source
+license notices. See https://dotnet.microsoft.com/ for license information.
+
+Direct managed package dependencies in this release:
+
+  Microsoft.Data.SqlClient 6.1.0       MIT
+  Microsoft.Data.Sqlite 8.0.8          MIT
+  OpenAI 2.12.0                        MIT
+  OpenTelemetry 1.10.0                 Apache-2.0
+  Spectre.Console 0.49.1               MIT
+  System.Text.Json 10.0.3              MIT
+
+Package license metadata and source locations are available from NuGet:
+https://www.nuget.org/packages/<package-id>/<version>.
+
+Dashboard
+---------
+
+The bundled local dashboard is built with React 19.2.6 and React DOM 19.2.6,
+which are licensed under the MIT License.
+Source: https://github.com/facebook/react
+
+No third-party component is licensed to Jgent under this notice. This notice
+does not replace, amend, or limit any applicable third-party license.

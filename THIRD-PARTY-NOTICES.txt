@@ -22,11 +22,10 @@ pjass (release-2026-06-15)
   Full license text: plugins/pjass/LICENSE
   Provenance: plugins/pjass/SOURCE.md
 
-JassHelper (0.A.9.1)
+Vexorian JassHelper plugin (0.9.G.5)
   Original author: Victor Hugo Soliz Kuncar (Vexorian)
-  Bundled release publisher: shuen4
   License: zlib/PNG
-  Source: https://github.com/shuen4/jasshelper
+  Source: Jgent verified plugin archive
   Full license text: plugins/jasshelper/LICENSE
   Provenance: plugins/jasshelper/SOURCE.md
 

@@ -1,4 +1,4 @@
-# Jgent
+﻿# Jgent
 
 Warcraft III JASS/vJass 유즈맵 개발을 위한 Windows AI 코딩 에이전트입니다. 자연어로 작업을 요청하면 프로젝트의 소스, Git, JASS 검증 도구와 개발 지식을 필요한 범위에서 활용해 작업을 돕습니다.
 
@@ -41,3 +41,4 @@ Jgent는 독점 소프트웨어입니다. 비상업적인 개인 및 내부 조�
 Warcraft III는 Blizzard Entertainment, Inc.의 상표입니다. Jgent는 Blizzard Entertainment와 제휴하거나 승인을 받은 도구가 아닙니다.
 
 이 저장소는 Jgent 실행 파일을 배포하기 위한 공간입니다. 소스 코드, 내부 문서, 인프라, 구성 정보, 자격 증명, 개발 도구는 포함하지 않습니다. 외부 구성 요소와 데이터에 관한 안내는 [THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt)와 [DATA-NOTICE.txt](DATA-NOTICE.txt)에서 확인할 수 있습니다.
+

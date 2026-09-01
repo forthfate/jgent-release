@@ -1,7 +1,7 @@
 ﻿{
     "version":  "1.0.4",
     "packageUrl":  "https://github.com/forthfate/jgent-release/releases/download/v1.0.4/Jgent-win-x64.zip",
-    "sha256":  "F72EF2B93E10FCD6E77BFB0FA99CA0672CE51E5CA2F9FFE92D6316FEB7DCBCBD",
-    "sourceCommit":  "df006b2b1340dfabc5ac7f3d31b2c8e6b62f3c56",
-    "publishedAt":  "2026-09-01T00:09:32.1136321+00:00"
+    "sha256":  "42D59944BB71C15BE64ADB3BF3EEDAB06C23C188289B861738B7E90AEF7C2A48",
+    "sourceCommit":  "98b931d03bf37adab2868f81ad4658e6908a7b1d",
+    "publishedAt":  "2026-09-01T00:13:06.6639794+00:00"
 }
